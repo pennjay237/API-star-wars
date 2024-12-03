@@ -1,0 +1,27 @@
+.container {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+}
+.container1{
+    background-color: aquamarine;
+}
+.container2{
+    background-color: aqua;
+}
+.container3{
+    background-color: rgb(255, 228, 196);
+}
+.container4{
+    background-color: cadetblue;
+}
+.container5{
+    background-color: rgb(131, 151, 151);
+}
+.container6{
+    background-color: rgba(50, 125, 187, 0.337);
+}
+
+.container h1 {
+    color: white;
+    text-align: center;
+}
